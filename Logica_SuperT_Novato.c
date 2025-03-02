@@ -42,8 +42,7 @@ int main() {
         printf("Resultado: Carta 2 (%s) venceu!\n", cidade2);
     } else {
         printf("Resultado: Empate!\n");
-    }
-    
+    }    
     
     return 0;
 }
