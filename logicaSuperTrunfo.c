@@ -43,7 +43,6 @@ int main() {
     } else {
         printf("Resultado: Empate!\n");
     }
-
     
     return 0;
 }
